@@ -9,14 +9,14 @@ Although this is open source software, these screenshots document the inappropri
 
 • removal of attributions to prior work
 
-• removal of statements of authors by the creators of the work
+• removal of statements of authorship and credit by the creators of the work
 
 • addition of false claims of credit
 
 • addition of false citation information
 
-without contributions by the repository owners.
+by the VisionLab repository owners.
 
-The original repository and tag is [https://github.com/rachelfheaton/search-model](https://github.com/rachelfheaton/search-model/releases/tag/v1.0.0)](https://github.com/rachelfheaton/salience-model/releases/tag/v1.0.1)
+The original repository and tag is [https://github.com/rachelfheaton/search-model](https://github.com/rachelfheaton/search-model/releases/tag/v1.0.0)](https://github.com/rachelfheaton/salience-model/releases/tag/v1.0.1), created by https://github.com/rachelfheaton in collaboration with https://github.com/jehummel 
 
 At the time of the creation of this repository, this information was publicly available in the repository history on the <a href = "https://github.com/visionlabatuillinois"> VisionLab at UIllinois </a> GitHub page.
