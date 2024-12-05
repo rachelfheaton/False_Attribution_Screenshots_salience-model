@@ -1,6 +1,8 @@
 # False_Attribution_Screenshots_salience-model
 This is a repository that archives screenshots taken from the version <a href="https://github.com/visionlabatuillinois/V1-salience-model-NSF-award-number-BCS1921735/activity"> history </a> of the Vision Lab at UIllinois GitHub repository https://github.com/visionlabatuillinois/V1-salience-model-NSF-award-number-BCS1921735
 
+The original repository and tag is [https://github.com/rachelfheaton/search-model](https://github.com/rachelfheaton/search-model/releases/tag/v1.0.0)](https://github.com/rachelfheaton/salience-model/releases/tag/v1.0.1), created by https://github.com/rachelfheaton in collaboration with https://github.com/jehummel 
+
 Although this is open source software, these screenshots document the inappropriate:
 
 • removal of open source license files 
@@ -16,7 +18,5 @@ Although this is open source software, these screenshots document the inappropri
 • addition of false citation information
 
 by the VisionLab repository owners.
-
-The original repository and tag is [https://github.com/rachelfheaton/search-model](https://github.com/rachelfheaton/search-model/releases/tag/v1.0.0)](https://github.com/rachelfheaton/salience-model/releases/tag/v1.0.1), created by https://github.com/rachelfheaton in collaboration with https://github.com/jehummel 
 
 At the time of the creation of this repository, this information was publicly available in the repository history on the <a href = "https://github.com/visionlabatuillinois"> VisionLab at UIllinois </a> GitHub page.
